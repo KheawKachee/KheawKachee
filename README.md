@@ -1,5 +1,5 @@
 ## Hi there 👋
-![JustMou](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGMxNW1vMGFhMXA4NTY3ZHB1eWx2b2J6cnVtdGVxc2lneGVkcjI5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xs8Xv5TywQWBkA/giphy.gif)
+![JustMou](https://y.yarn.co/e98df972-2e71-4457-944c-42afee718fca_text.gif)
 <!--
 **KheawKachee/KheawKachee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
