@@ -1,5 +1,4 @@
-## Sorry? 
-![thesmiths](https://64.media.tumblr.com/9ac06e5b094708d696c34a3eeac69b9d/d1946a40e83ed3b6-2b/s540x810/2d851877ff080cad3f44821c4d3e6b1a56f4ffa2.gifv)
+
 <!--
 **KheawKachee/KheawKachee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![respect-mou](https://github.com/user-attachments/assets/c3c1bbc1-66ba-4cab-bd41-87e91df02678)
