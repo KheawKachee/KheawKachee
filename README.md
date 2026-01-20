@@ -1,16 +1,26 @@
+# Wachirawit Piyaprapapan
 
-<!--
-**KheawKachee/KheawKachee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interest in data Science & machine learning applicaiton on real-world, production-style systems, applying data-driven methods to business, operations, and decision-making problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📄 Resume
+
+**`output/data_CV.pdf`**
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** Python, SQL, Bash , Matlab
+**Data & ML:** Pandas, scikit-learn, PyTorch, Spark  
+**Platform:** Airflow, dbt, Docker, PostgreSQL , Gradio
+**Visualization:** Matplotlib, Seaborn, Grafana
+
+---
+## 🕺 Contract me
+
+Linkedin : https://www.linkedin.com/in/wachirawit-piyaprapapan/
+Gmail : wachirawit.p.work@gmail.com
+
 ![respect-mou](https://github.com/user-attachments/assets/c3c1bbc1-66ba-4cab-bd41-87e91df02678)
+
