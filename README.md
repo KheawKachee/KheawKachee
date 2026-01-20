@@ -20,4 +20,4 @@ Interest in Data Science & Machine Learning application on real-world, productio
 
 
 ## 🏆
-![core-memory]([https://github.com/user-attachments/assets/c3c1bbc1-66ba-4cab-bd41-87e91df02678](https://thebusbybabe.sbnation.com/2023/2/27/23616705/tactical-analysis-how-manchester-united-lifted-their-first-trophy-in-six-years))
+![core-memory](https://platform.thebusbybabe.sbnation.com/wp-content/uploads/sites/157/chorus/uploads/chorus_asset/file/24464233/Maguire_and_Bruno_lift_trophy.gif?quality=90&strip=all&crop=0,0,100,100&_gl=1*71pu96*_gcl_au*NjgxMTk5NDk3LjE3Njg5MDY3ODA.*_ga*NjUzNDI2ODI3LjE3Njg5MDY3ODA.*_ga_2M5GYNY1YS*czE3Njg5MDY3NzkkbzEkZzAkdDE3Njg5MDY3ODYkajUzJGwwJGgw)
