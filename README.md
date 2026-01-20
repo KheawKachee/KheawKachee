@@ -19,5 +19,5 @@ Interest in Data Science & Machine Learning application on real-world, productio
 **Gmail:** wachirawit.p.work@gmail.com
 
 
-## Jose Mourinho caues why not 🏆
+## Jose Mourinho cause why not 🏆
 ![respect-mou](https://github.com/user-attachments/assets/c3c1bbc1-66ba-4cab-bd41-87e91df02678)
