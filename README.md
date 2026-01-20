@@ -1,4 +1,4 @@
-# Wachirawit Piyaprapapan
+# Hi, I'm Wachirawit!
 
 Interest in Data Science & Machine Learning application on real-world, production-style systems, applying data-driven methods to business, operations, and decision-making problems.
 
