@@ -19,5 +19,5 @@ Interest in Data Science & Machine Learning application on real-world, productio
 **Gmail:** wachirawit.p.work@gmail.com
 
 
-## Jose Mourinho cause why not 🏆
-![respect-mou](https://github.com/user-attachments/assets/c3c1bbc1-66ba-4cab-bd41-87e91df02678)
+## 🏆
+![core-memory]([https://github.com/user-attachments/assets/c3c1bbc1-66ba-4cab-bd41-87e91df02678](https://thebusbybabe.sbnation.com/2023/2/27/23616705/tactical-analysis-how-manchester-united-lifted-their-first-trophy-in-six-years))
