@@ -3,7 +3,7 @@
 Interest in Data Science & Machine Learning application on real-world, production-style systems, applying data-driven methods to business, operations, and decision-making problems.
 
 
-[**📄 View my Resume**](./Resume/output/data_CV.pdf)
+[**📄 View my Resume**](https://github.com/KheawKachee/Resume/blob/main/output/data_CV.pdf)
 
 
 ## 🛠️ Tech Stack
