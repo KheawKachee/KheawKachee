@@ -1,7 +1,6 @@
 # Hi, I'm Wachirawit!
 
-Interest in Data Science & Machine Learning application on real-world, production-style systems, applying data-driven methods to business, operations, and decision-making problems.
-
+Data enthusiast, United fan and home chef.
 
 [**📄 View my Resume**](https://github.com/KheawKachee/Resume/blob/main/output/data_CV.pdf)
 
