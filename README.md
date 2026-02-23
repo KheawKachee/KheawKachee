@@ -1,6 +1,6 @@
 # Hi, I'm Wachirawit!
 
-Data enthusiast, United fan and home chef.
+An applied machine learning and data enthusiast, and lifetime United fan.
 
 [**📄 View my Resume**](https://github.com/KheawKachee/Resume/blob/main/output/data_CV.pdf)
 
