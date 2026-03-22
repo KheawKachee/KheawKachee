@@ -2,7 +2,7 @@
 
 An applied machine learning and data enthusiast, and lifetime United fan.
 
-[**📄 View my Resume**](https://github.com/KheawKachee/Resume/blob/main/output/data_CV.pdf)
+[**📄 View my Resume**](https://github.com/KheawKachee/Resume/blob/main/output/main_CV.pdf)
 
 
 ## 🛠️ Tech Stack
