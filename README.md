@@ -5,12 +5,42 @@ An applied machine learning and data enthusiast, and lifetime United fan.
 [**📄 View my Resume**](https://github.com/KheawKachee/Resume/blob/main/output/main_CV.pdf)
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** Python, SQL, Bash, Matlab  
-**Data & ML:** Pandas, scikit-learn, PyTorch, Spark  
-**Platform:** Airflow, dbt, Docker, PostgreSQL, Gradio  
-**Visualization:** Matplotlib, Seaborn, Grafana
+**AI:** PyTorch, pySpark, LiteLLM, Pandas, scikit-learn, OpenAI, OpenCV
+**Platform:** GCP, Airflow, dbt, Docker, PostgreSQL, Gradio, Grafana
+
+## Prior Hackathon Experience
+
+- **I-squared Hackathon — Computer Vision / Data Augmentation / Pitch Deck**
+  - Contributed to a computer vision pipeline for an image classification task focused on detecting food-delivery legal-breach cases.
+  - Worked on large-scale dataset preparation, preprocessing, data augmentation, and model experimentation.
+  - Helped prepare the pitch deck and communicate the technical solution.
+  - Result: advanced as a **Top 5 semi-finalist team**.
+
+- **Data Engineering / Data Scientist Hackathon, Chula CP 2026 — Data Engineer / Data Scientist**
+  - Built an interactive Streamlit dashboard for Bangkok Traffy complaint analysis.
+  - Implemented complaint filtering by type and date range, scatter map and heatmap visualization, DBSCAN/KMeans clustering, and SQLite-backed data loading.
+  - Integrated Bangkok POI overlays such as bus stops, transit stations, 7-Eleven locations, and places of worship.
+  - Used GeoPandas/Shapely for Bangkok-boundary geospatial preprocessing.
+  - Tech stack: Python, Streamlit, Pandas, PyDeck, SQLite, scikit-learn, GeoPandas, Shapely.
+
+- **Champ Engineering Data Track — Football Data / ML Engineer**
+  - Built data-driven tooling for football player valuation and segmentation.
+  - Designed two analytics pipelines: market-value trajectory prediction and player archetype clustering.
+  - Used historical player statistics, demographic/contextual features, per-90 action metrics, and physique attributes to support scouting and recruitment analysis.
+  - Target users: sporting directors, scouting teams, and football analytics teams working under transfer-budget constraints.
+
+- **Microsoft x AIAT 2026 — Data Analytics & Visualization**
+  - Contributing to an ongoing AI Crisis Management System for Thailand.
+  - Worked on analytics and visualization for a voice-first crisis operations platform handling floods, fires, earthquakes, medical emergencies, and public-safety incidents.
+  - The proposed architecture uses Azure services for AI-assisted triage, auditable case records, dashboard monitoring, maps, event workflow, and secure cloud operations.
+  - Tech direction: Azure Communication Services/Twilio, FastAPI, Azure AI Speech, Azure OpenAI, Azure Service Bus, Cosmos DB, React dashboard, Azure Maps, SignalR, Monitor, Application Insights, and Key Vault.
+
+- **Super AI Engineer Hackathons / Kaggle Competitions**
+  - Participated in multiple Super AI Engineer Season 6 competitions, including telephone directory OCR, parasite egg classification, and CTR prediction.
+  - Achieved **Top 25 leaderboard** placement in the Parasite Eggs image classification competition.
 
 ## 🤝 Contact Me
 
