@@ -19,13 +19,6 @@ An applied machine learning and data enthusiast, and lifetime United fan.
   - Helped prepare the pitch deck and communicate the technical solution.
   - Result: advanced as a **Top 5 semi-finalist team**.
 
-- **Data Engineering / Data Scientist Hackathon, Chula CP 2026 — Data Engineer / Data Scientist**
-  - Built an interactive Streamlit dashboard for Bangkok Traffy complaint analysis.
-  - Implemented complaint filtering by type and date range, scatter map and heatmap visualization, DBSCAN/KMeans clustering, and SQLite-backed data loading.
-  - Integrated Bangkok POI overlays such as bus stops, transit stations, 7-Eleven locations, and places of worship.
-  - Used GeoPandas/Shapely for Bangkok-boundary geospatial preprocessing.
-  - Tech stack: Python, Streamlit, Pandas, PyDeck, SQLite, scikit-learn, GeoPandas, Shapely.
-
 - **Champ Engineering Data Track — Football Data / ML Engineer**
   - Built data-driven tooling for football player valuation and segmentation.
   - Designed two analytics pipelines: market-value trajectory prediction and player archetype clustering.
